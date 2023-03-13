@@ -1,0 +1,4 @@
+﻿  try catch 사용.cpp
+E:\coding\visualstudio\project\런타임일때 프로그램 중단\런타임일때 프로그램 중단\try catch 사용.cpp(6,18): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+E:\coding\visualstudio\project\런타임일때 프로그램 중단\런타임일때 프로그램 중단\try catch 사용.cpp(18,14): warning C4101: 'ex' :참조되지 않은 지역 변수입니다.
+  런타임일때 프로그램 중단.vcxproj -> E:\coding\visualstudio\project\런타임일때 프로그램 중단\x64\Debug\런타임일때 프로그램 중단.exe

@@ -1,0 +1,9 @@
+﻿  ta.cpp
+application.obj : error LNK2019: "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+professor.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+student.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+ta.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+application.obj : error LNK2019: "public: __cdecl Person::~Person(void)" (??1Person@@QEAA@XZ)"public: void __cdecl Professor::`vbase destructor'(void)" (??_DProfessor@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+ta.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Person::~Person(void)" (??1Person@@QEAA@XZ)
+application.obj : error LNK2019: "public: void __cdecl Person::print(void)" (?print@Person@@QEAAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+E:\coding\visualstudio\project\TA 클래스의 인터페이스 파일\x64\Debug\TA 클래스의 인터페이스 파일.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.

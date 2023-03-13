@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TA 클래스의 인터페이스 파일", "TA 클래스의 인터페이스 파일\TA 클래스의 인터페이스 파일.vcxproj", "{E868956A-4A85-4A6D-B82E-56CB07D5C979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Debug|x64.ActiveCfg = Debug|x64
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Debug|x64.Build.0 = Debug|x64
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Debug|x86.ActiveCfg = Debug|Win32
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Debug|x86.Build.0 = Debug|Win32
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Release|x64.ActiveCfg = Release|x64
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Release|x64.Build.0 = Release|x64
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Release|x86.ActiveCfg = Release|Win32
+		{E868956A-4A85-4A6D-B82E-56CB07D5C979}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B25359-FD4D-451B-B8D3-EE33AF55B48A}
+	EndGlobalSection
+EndGlobal
